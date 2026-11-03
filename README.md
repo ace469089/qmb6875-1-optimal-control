@@ -14,6 +14,13 @@ The examples come straight from the October 29 class: the professor's **tree-har
 | 2. `qmb6875-2-reinforcement-learning` | the rules are unknown → learn by trying |
 | 3. `qmb6875-3-on-a-computer` | how to actually get the numbers out, and how to trust them |
 
+## ▶ Play it: *Ship or Hold*
+
+Play the gold trader against a Bellman-equation bot, warm up on the offer problem, and turn the knobs that move the optimal cutoff.
+
+- **Live:** https://ace469089.github.io/qmb6875-1-optimal-control/play/ (needs GitHub Pages turned on: Settings → Pages → Deploy from branch → `main` / root)
+- **Offline:** download [`play/index.html`](play/index.html) and open it in any browser. No install needed.
+
 ---
 
 ## The four problems and their answers
