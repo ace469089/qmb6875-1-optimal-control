@@ -79,7 +79,7 @@ In 20,000 simulated shipments, the optimal rule earns **$26.59/oz** (95% interva
 ## How to run it
 
 ```bash
-git clone https://github.com/<your-username>/qmb6875-1-optimal-control.git
+git clone https://github.com/ace469089/qmb6875-1-optimal-control.git
 cd qmb6875-1-optimal-control
 pip install -e .                # installs the optcontrol package + numpy/scipy/matplotlib
 pip install pytest
