@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "optcontrol"
+version = "1.0.0"
+description = "Optimal control from zero: tree, heifer, offer and gold-trader problems (QMB 6875)"
+requires-python = ">=3.10"
+dependencies = ["numpy>=2.0", "scipy>=1.11", "matplotlib>=3.7"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
